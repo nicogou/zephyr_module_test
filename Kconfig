@@ -1,0 +1,4 @@
+config ZEPHYR_MODULE_TEST
+	bool "Support for Zephyr test module"
+	help
+	  This option enables the Test Zephyr module library.
